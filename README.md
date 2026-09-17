@@ -1,6 +1,6 @@
 # parse_electoral_rolls_jk
 
-Parse Jammu & Kashmir electoral rolls (ECI state code **U08**) into CSV for
+Parse Jammu & Kashmir electoral rolls into CSV for
 research and analysis.
 
 The published rolls are scanned/rasterized PDFs with no text layer -- every
