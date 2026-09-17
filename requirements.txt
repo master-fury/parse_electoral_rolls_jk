@@ -1,0 +1,11 @@
+opencv-python-headless
+pytesseract
+pdf2image
+pillow
+pandas
+paddlepaddle
+paddleocr
+
+# System dependencies (not installable via pip) -- see README.md for
+# per-OS install commands (Linux / Windows / macOS):
+#   poppler (for pdf2image) and tesseract-ocr (for pytesseract)
